@@ -32,7 +32,7 @@ MALVIN-XD BY Malvin King 🩵
 [![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z)
 </div>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{MALVIN-XD}/count.svg" alt="kingmalvn :: Visitor's Count" old_src="https://profile-counter.glitch.me/{kingmalvn}/count.svg" /></p>
+ <p align=center"><img src="https://profile-counter.glitch.me/{MALVIN-XD}/count.svg" alt="kingmalvn :: Visitor's Count" old_src="https://profile-counter.glitch.me/{kingmalvn}/count.svg" /></p>
 
 
 <p align="center">
@@ -41,7 +41,7 @@ MALVIN-XD BY Malvin King 🩵
 </p>
 </p> 
 
-<p align="center">
+AUTO REPLY
   <a href="https://github.com/kingmalvn/MALVIN-XD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v3.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
  <a><img src='https://i.imgur.com/LyHic3i.gif'/>
